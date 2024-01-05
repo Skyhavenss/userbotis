@@ -1,0 +1,6 @@
+качаете питон
+https://www.python.org/downloads/release/python-3100/
+Открываете main.py и там где api_id и api_client заменяете на свой аккаунт
+потом заходите в cmd переходило в эту папку через cd и пишите pip install telethon json re 
+и потом пишете python main.py 
+И ГОТОВО!  не забудьте заменить свои данные в файле.
